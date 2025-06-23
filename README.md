@@ -1,3 +1,5 @@
+![App Screenshot](fp.png)
+
 # My Finance Pal
 
 My Finance Pal is a modern, responsive personal finance management application designed to help you take control of your financial life. 

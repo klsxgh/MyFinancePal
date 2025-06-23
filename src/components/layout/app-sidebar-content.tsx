@@ -178,7 +178,7 @@ export default function AppSidebarContent() {
       <Separator className="bg-sidebar-border" />
       <SidebarFooter className="p-4 mt-auto group-data-[collapsible=icon]:p-2">
           <Button variant="ghost" className="w-full justify-start group-data-[collapsible=icon]:justify-center" asChild>
-            <Link href="https://github.com/firebase/studio-prototyper" target="_blank">
+            <Link href="https://github.com/klsxgh/MyFinancePal" target="_blank">
              <Github className="w-5 h-5" />
              <span className="group-data-[collapsible=icon]:hidden ml-2">View on GitHub</span>
             </Link>
